@@ -10,26 +10,6 @@ This repository serves as a personal (or shared) problem-solving journal: each f
 
 ---
 
-## Progress
-
-Number of solutions per topic (folder):
-
-| Topic | Count |
-|-------|-------|
-| Array and Hashing | 15 |
-| LinkedList | 6 |
-| Math | 6 |
-| Two Pointers | 4 |
-| Trees | 3 |
-| Stack | 1 |
-| graph | 1 |
-| heap | 1 |
-| CodeForces (Python) | 1 |
-| Contests (CodeForces) | 2 |
-| **Total** | **39** |
-
----
-
 ## Repository Structure
 
 ```
