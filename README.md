@@ -18,7 +18,7 @@ Number of solutions per topic (folder):
 |-------|-------|
 | Array and Hashing | 15 |
 | LinkedList | 6 |
-| Math | 5 |
+| Math | 6 |
 | Two Pointers | 4 |
 | Trees | 3 |
 | Stack | 1 |
