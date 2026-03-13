@@ -1,6 +1,6 @@
 # Problem-Solving
 
-A structured collection of solutions to coding challenges from **LeetCode**, **CodeForces**, and other competitive programming platforms. Solutions are organized by topic and platform for easy navigation and review.
+A structured collection of solutions to coding challenges from **LeetCode**, **CodeForces**, and other competitive programming platforms. Solutions are organized by topic and platform for easy navigation and review
 
 ---
 
