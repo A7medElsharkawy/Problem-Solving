@@ -6,5 +6,5 @@ class Solution:
             n = n >> 1
         return result
 
-# time complexity: O(1)
-# space complexity: O(1)
+# time complexity: o(1)
+# space complexity: o(1)
